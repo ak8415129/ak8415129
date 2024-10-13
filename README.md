@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ankit Kumar</h1>
 <h3 align="center">Hello, This is Ankit.Currently a CSE undergrad longing to become a Software Engineer, having a keen interest in web dev. I am currently studying at KIIT DU BBSR</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ak8415129&label=Profile%20views&color=0e75b6&style=flat" alt="ak8415129" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak8415129" alt="ak8415129" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ak8415129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ak8415129" height="30" width="40" /></a>
