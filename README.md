@@ -1,5 +1,5 @@
 <h1 align="center">Hii 👋, I'm Ankit Kumar</h1>
-<h3 align="center">Hello, This is Ankit.Currently a CSE undergrad longing to become a Software Engineer, having a keen interest in web dev. I am currently studying at KIIT DU BBSR</h3>
+<h3 align="center">Hello, This is Ankit.Currently, a CSE undergrad longing to become a Software Engineer, having a keen interest in web dev. I am currently studying at KIIT DU BBSR</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak8415129&label=Profile%20views&color=0e75b6&style=flat" alt="ak8415129" /> </p>
 
