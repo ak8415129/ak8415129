@@ -1,6 +1,9 @@
 <h1 align="center">Hii 👋, I'm Ankit Kumar</h1>
-<h3 align="center">Hello, This is Ankit.Currently, a CSE undergrad longing to become a Software Engineer, having a keen interest in web dev. I am currently studying at KIIT DU BBSR</h3>
+<h3 align="center">Hello, This is Ankit.I'm a recent B.Tech graduate in Computer Science Engineering from KIIT University, Bhubaneswar. With a strong foundation in computer science, I’ve developed a passion for coding and problem-solving. During my studies, I focused on web development, particularly front-end technologies, and gained hands-on experience working on multiple projects.
 
+Currently, I am a trainee at Indegene, where I’m diving deeper into web analytics, particularly using GA-4 and Google Tag Manager (GTM). Alongside that, I’m committed to continuous learning, exploring both front-end and back-end technologies to keep growing and sharpening my skills.
+</h3>
+<h2> Here on GitHub, you’ll find my coding projects, including web development and data analytics, as I work towards becoming a well-rounded developer. Feel free to connect, collaborate, or explore my work! </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak8415129&label=Profile%20views&color=0e75b6&style=flat" alt="ak8415129" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak8415129" alt="ak8415129" /></a> </p>
