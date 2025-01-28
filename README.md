@@ -3,7 +3,7 @@
 
 Currently, I am a trainee at Indegene, where I’m diving deeper into web analytics, particularly using GA-4 and Google Tag Manager (GTM). Alongside that, I’m committed to continuous learning, exploring both front-end and back-end technologies to keep growing and sharpening my skills.
 </h3>
-<h2> Here on GitHub, you’ll find my coding projects, including web development and data analytics, as I work towards becoming a well-rounded developer. Feel free to connect, collaborate, or explore my work! </h2>
+<h3> Here on GitHub, you’ll find my coding projects, including web development and data analytics, as I work towards becoming a well-rounded developer. Feel free to connect, collaborate, or explore my work! </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak8415129&label=Profile%20views&color=0e75b6&style=flat" alt="ak8415129" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ak8415129" alt="ak8415129" /></a> </p>
